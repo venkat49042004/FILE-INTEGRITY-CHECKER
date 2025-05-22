@@ -64,3 +64,5 @@ SOFTWARE DISTRIBUTION: Ensures downloaded files are not corrupted or modified by
 /FILECOIN/IPFS: Use hashes to identify and verify the integrity of content.
 
 COMPLIANCE & AUDITING: Useful in maintaining data integrity logs for legal and compliance purposes.
+
+OUTPUT: ![Image](https://github.com/user-attachments/assets/48312660-dbbb-4289-ae7b-9b29edf754f7)
